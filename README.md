@@ -1,14 +1,7 @@
-👋 Hi there!
-
-I'm Josué Joel García Abata.
-
-🎓 Currently studying Software Engineering at Universidad Técnica de Ambato.
-
-💻 I'm very interested in back-end development, although I occasionally practice front-end as well.
-
-☕ My favorite programming language is Java, and I’m currently learning Spring Framework 6 & Spring Boot 3.
-
-Here are some projects I have worked:
-
-- [Data Structures] (https://github.com/JosueGarciaAbata/proyecto-edd): Data Structures
-- [Blog] (https://github.com/JosueGarciaAbata/proyecto-mds): A blog
+👋 Hi, I’m Josué García!
+💻 I’m a back-end developer. I love working with Java and Spring Boot (still learning!).
+🎓 I’m studying at Universidad Técnica de Ambato.
+⚙️ Skills: Java, Oracle, HTML, CSS, SCSS, PHP, and JavaScript.
+✨ I love learning and building projects to grow as a developer.
+📂 Check out my projects: typing app, blog, candidate page, and Tamagochi game!
+📧 Feel free to contact me: josuegarcab2@hotmail.com.
