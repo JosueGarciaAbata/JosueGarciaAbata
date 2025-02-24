@@ -1,20 +1,36 @@
-👋 Hi, I’m Josué García!
+# 💻 Josué Joel García Abata  
 
-💻 I’m a back-end developer. I love working with Java and Spring Boot (still learning!).
+## 🚀 Sobre mí  
+Soy un apasionado del desarrollo de software con enfoque en **Java** y **PHP**. Actualmente, utilizo **Laravel 11**, pero estoy en proceso de aprendizaje y transición hacia **Spring y Spring Boot** como mi framework principal.  
 
-🎓 I’m studying at Universidad Técnica de Ambato.
+Todavía tengo mucho por aprender y desarrollar, así que estoy trabajando en proyectos para fortalecer mis habilidades.  
 
-⚙️ Skills: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-, ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-, ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-, ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-, ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-, ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-, and ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black).
+## 🛠️ Tecnologías y herramientas  
 
-✨ I love learning and building projects to grow as a developer.
+### 📌 Lenguajes  
+- Java  
+- PHP  
+- JavaScript  
 
-📂 Check out my projects: typing app, blog, candidate page, and Tamagochi game!
+### 🎨 Maquetado y diseño  
+- HTML  
+- CSS  
 
-📧 Feel free to contact me: josuegarcab2@hotmail.com.
+### 📚 Librerías  
+- React  
 
+### 🛠 Herramientas de desarrollo  
+- Git  
+- GitHub  
+- GitLab  
+
+### 🐳 Herramientas de Contenedorización
+- Docker
+
+## 🎓 Educación  
+📍 **Universidad Técnica de Ambato**  
+🎓 Ingeniería en Software  
+
+---  
+
+📫 **Contacto: josuegarcab2@hotmail.com
