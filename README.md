@@ -22,6 +22,10 @@ Todavía tengo mucho por aprender y desarrollar, así que estoy trabajando en pr
 ### 🌱 Frameworks
 - Tailwind CSS
 
+- 🗄️ Bases de datos
+MySQL
+Oracle
+
 ### 🛠 Herramientas de desarrollo  
 - Git  
 - GitHub  
