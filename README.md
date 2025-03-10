@@ -1,7 +1,7 @@
 # 💻 Josué Joel García Abata  
 
 ## 🚀 Sobre mí  
-Soy un apasionado del desarrollo de software con enfoque en **Java** y **PHP**. Actualmente, utilizo **Laravel 11**, pero estoy en proceso de aprendizaje y transición hacia **Spring y Spring Boot** como mi framework principal.  
+Soy un desarrollador apasionado por crear soluciones web usando Java, PHP, JavaScript (incluyendo React) y Spring Framework. Me encanta construir aplicaciones simples, eficientes y fáciles de mantener, siempre priorizando una estructura clara y un diseño limpio.
 
 Todavía tengo mucho por aprender y desarrollar, así que estoy trabajando en proyectos para fortalecer mis habilidades.  
 
