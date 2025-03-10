@@ -19,6 +19,9 @@ Todavía tengo mucho por aprender y desarrollar, así que estoy trabajando en pr
 ### 📚 Librerías  
 - React  
 
+### 🌱 Frameworks
+- Tailwind CSS
+
 ### 🛠 Herramientas de desarrollo  
 - Git  
 - GitHub  
@@ -27,9 +30,9 @@ Todavía tengo mucho por aprender y desarrollar, así que estoy trabajando en pr
 ### 🐳 Herramientas de Contenedorización
 - Docker
 
-## 🎓 Educación  
+## 🎓 Educaión  
 📍 **Universidad Técnica de Ambato**  
-🎓 Ingeniería en Software  
+💻 Ingeniería en Software  
 
 ---  
 
