@@ -23,8 +23,8 @@ Todavía tengo mucho por aprender y desarrollar, así que estoy trabajando en pr
 - Tailwind CSS
 
 ### 🗄️ Bases de datos
-MySQL
-Oracle
+- MySQL
+- Oracle
 
 ### 🛠 Herramientas de desarrollo  
 - Git  
