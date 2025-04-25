@@ -13,8 +13,10 @@ My approach is always to build clean, efficient, and well-structured solutions. 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)  
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)  
+
+### 🎨 Markup & Styling Languages
 - ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)
 
 ### 🌱 Frameworks
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
