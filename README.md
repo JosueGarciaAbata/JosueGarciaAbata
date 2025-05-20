@@ -22,7 +22,6 @@ My approach is always to build clean, efficient, and well-structured solutions. 
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
 - ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
-- ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-blue?style=flat&logo=dotnet&logoColor=white)
 
 ### 🎨 Libraries
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
