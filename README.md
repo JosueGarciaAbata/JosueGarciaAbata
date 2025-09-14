@@ -20,7 +20,7 @@ My approach is always to build clean, efficient, and well-structured solutions. 
 
 ### 🌱 Frameworks
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
-- ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
+- ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 - ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
 
 ### 🎨 Libraries
