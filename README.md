@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I am a **Software Engineering** student with a deep passion for **Java** development and using the **Spring Framework**. My interest in these technologies is focused on creating robust, scalable, and high-performance applications. I have worked with several databases, primarily **MySQL** and **Oracle**, which has allowed me to acquire solid knowledge in relational database design and optimization.
+I am a Software Engineering student with a deep passion for Java development and using the Spring Framework. My interest in these technologies is focused on creating robust, scalable, and high-performance applications. I have worked with several databases, primarily PostgreSQL and MySQL, which has allowed me to acquire solid knowledge in relational database design and optimization.
 
 My approach is always to build clean, efficient, and well-structured solutions. I enjoy solving complex problems using the most appropriate tools.
 
@@ -20,7 +20,7 @@ My approach is always to build clean, efficient, and well-structured solutions. 
 
 ### 🌱 Frameworks
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+- ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
 - ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
 
 ### 🎨 Libraries
@@ -28,8 +28,9 @@ My approach is always to build clean, efficient, and well-structured solutions. 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 ### 🗄️ Databases
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
 
 ### 🛠️ Development Tools
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
