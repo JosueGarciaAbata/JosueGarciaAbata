@@ -1,57 +1,104 @@
-# 👨‍💻 About Me
+# Josué García 👋  
+### Backend Developer | Java & Spring Boot
 
-I am a Software Engineering student with a deep passion for Java development and using the Spring Framework. My interest in these technologies is focused on creating robust, scalable, and high-performance applications. I have worked with several databases, primarily PostgreSQL and MySQL, which has allowed me to acquire solid knowledge in relational database design and optimization.
+Soy estudiante de **Ingeniería de Software** con una fuerte orientación al **desarrollo backend**, especializado en **Java y el ecosistema Spring**.  
 
-My approach is always to build clean, efficient, and well-structured solutions. I enjoy solving complex problems using the most appropriate tools.
+He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** y **MySQL**, lo que me ha permitido adquirir criterios sólidos en **modelado de datos**, **persistencia** y **optimización de consultas**.  
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🧠 Enfoque técnico
 
-### 📌 Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)  
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)  
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)  
+- Desarrollo backend con **Java**
+- Diseño e implementación de **APIs REST**
+- Arquitecturas basadas en **Spring Boot**
+- Sistemas distribuidos y **microservicios**
+- Persistencia y diseño de **bases de datos relacionales**
+- Contenerización y automatización de despliegues
 
-### 🎨 Markup & Styling Languages
-- ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)
+---
 
-### 🌱 Frameworks
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
-- ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-- ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white)
+## 🔧 Tecnologías y herramientas
 
-### 🎨 Libraries
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+### Lenguajes de programación
+- Java  
+- PHP  
+- JavaScript  
+- TypeScript  
 
-### 🗄️ Databases
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-- ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+### Backend & Frameworks
+- Spring Boot  
+- Spring Web  
+- Spring Data JPA  
+- Spring Cloud (Eureka, API Gateway, Circuit Breaker)  
+- ASP.NET Core
 
-### 🛠️ Development Tools
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)  
+### Arquitectura
+- Microservicios  
+- Arquitectura limpia (Clean Architecture)  
+- Separación de responsabilidades  
+- Principios SOLID (aplicación práctica)
 
-### 💻 Operating Systems
+### Bases de datos
+- PostgreSQL  
+- MySQL  
+- Oracle (nivel académico)
+
+### DevOps & Cloud
 - Docker  
+- Jenkins (CI/CD)  
+- Microsoft Azure  
+- Kubernetes (nivel básico)
+
+### Frontend (conocimientos complementarios)
+- HTML, CSS  
+- JavaScript, TypeScript  
+- React  
+- Angular  
+- Tailwind CSS  
+
+### Herramientas y control de versiones
+- Git  
+- GitHub  
+- GitLab  
+
+### Sistemas operativos
 - Linux  
 - Windows  
 
 ---
 
-## 🎓 Education
-I am currently studying at the **Technical University of Ambato**, **Ecuador**.
+## 🚀 Proyectos destacados
+
+- **Hospital Management System**  
+  Sistema distribuido basado en microservicios con Spring Cloud, Docker y despliegue en Azure.
+
+- **Marketplace Link**  
+  Backend con Spring Boot, APIs REST y pipelines CI/CD implementados con Jenkins.
+
+- **Otros proyectos académicos y experimentales**  
+  Enfocados en arquitectura, seguridad (RBAC), bases de datos y prácticas de ingeniería de software.
+
+📁 Ver todos los proyectos aquí:  
+🔗 https://josuegarciaabata.github.io/portfolio/projects.html
 
 ---
 
-## 📬 Contact
-- Email: [josuegarcab2@hotmail.com](mailto:josuegarcab2@hotmail.com)
+## 🌐 Portfolio
+
+🔗 https://josuegarciaabata.github.io/portfolio/
 
 ---
 
-Always eager to learn new technologies and improve my software development skills!
+## 🎓 Educación
+
+**Ingeniería de Software**  
+Universidad Técnica de Ambato – Ecuador  
+*Actualmente cursando*
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: josuegarcab2@hotmail.com  
+- 💻 GitHub: https://github.com/JosueGarciaAbata
