@@ -102,5 +102,3 @@ Universidad Técnica de Ambato – Ecuador
 
 - 📧 Email: josuegarcab2@hotmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/](https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/)
-
-- 
