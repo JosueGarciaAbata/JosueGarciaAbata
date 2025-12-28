@@ -37,12 +37,12 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
 - Microservicios  
 - Arquitectura limpia (Clean Architecture)  
 - Separación de responsabilidades  
-- Principios SOLID (aplicación práctica)
+- Principios SOLID
 
 ### Bases de datos
 - PostgreSQL  
 - MySQL  
-- Oracle (nivel académico)
+- Oracle
 
 ### DevOps & Cloud
 - Docker  
@@ -80,13 +80,13 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
   Enfocados en arquitectura, seguridad (RBAC), bases de datos y prácticas de ingeniería de software.
 
 📁 Ver todos los proyectos aquí:  
-🔗 https://josuegarciaabata.github.io/portfolio/projects.html
+🔗 https://portfolio-eta-umber-66.vercel.app/projects
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 https://josuegarciaabata.github.io/portfolio/
+🔗 https://portfolio-eta-umber-66.vercel.app/
 
 ---
 
@@ -101,4 +101,6 @@ Universidad Técnica de Ambato – Ecuador
 ## 📫 Contacto
 
 - 📧 Email: josuegarcab2@hotmail.com  
-- 💻 GitHub: https://github.com/JosueGarciaAbata
+- 💼 LinkedIn: https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/
+
+- 
