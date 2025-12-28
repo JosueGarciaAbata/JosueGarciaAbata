@@ -80,13 +80,13 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
   Enfocados en arquitectura, seguridad (RBAC), bases de datos y prácticas de ingeniería de software.
 
 📁 Ver todos los proyectos aquí:  
-🔗 https://portfolio-eta-umber-66.vercel.app/projects
+🔗 [https://portfolio-eta-umber-66.vercel.app/projects](https://portfolio-eta-umber-66.vercel.app/projects)
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 https://portfolio-eta-umber-66.vercel.app/
+🔗 [https://portfolio-eta-umber-66.vercel.app/](https://portfolio-eta-umber-66.vercel.app/)
 
 ---
 
@@ -101,6 +101,6 @@ Universidad Técnica de Ambato – Ecuador
 ## 📫 Contacto
 
 - 📧 Email: josuegarcab2@hotmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/
+- 💼 LinkedIn: [https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/](https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/)
 
 - 
