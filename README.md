@@ -70,7 +70,7 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
 
 ## 🚀 Proyectos destacados
 
-- **Hospital Management System**  
+- **Sistema de gestión hospitalaria**  
   Sistema distribuido basado en microservicios con Spring Cloud, Docker y despliegue en Azure.
 
 - **Sistema de gestión y moderación de publicaciones**  
