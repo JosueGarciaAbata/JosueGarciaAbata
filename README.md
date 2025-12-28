@@ -73,7 +73,7 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
 - **Hospital Management System**  
   Sistema distribuido basado en microservicios con Spring Cloud, Docker y despliegue en Azure.
 
-- **Marketplace Link**  
+- **Sistema de gestión y moderación de publicaciones**  
   Backend con Spring Boot, APIs REST y pipelines CI/CD implementados con Jenkins.
 
 - **Otros proyectos académicos y experimentales**  
