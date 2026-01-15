@@ -1,3 +1,7 @@
+🌐 Available languages  
+🇺🇸 English  
+🇪🇸 [Español](./README.es.md)
+
 # Josué García 👋  
 ### Backend Developer | Java & Spring Boot
 
