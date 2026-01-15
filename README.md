@@ -1,26 +1,26 @@
 # Josué García 👋  
 ### Backend Developer | Java & Spring Boot
 
-Soy estudiante de **Ingeniería de Software** con una fuerte orientación al **desarrollo backend**, especializado en **Java y el ecosistema Spring**.  
+I am a **Software Engineering** student with a strong focus on **backend development**, specialized in **Java and the Spring ecosystem**.
 
-He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** y **MySQL**, lo que me ha permitido adquirir criterios sólidos en **modelado de datos**, **persistencia** y **optimización de consultas**.  
-
----
-
-## 🧠 Enfoque técnico
-
-- Desarrollo backend con **Java**
-- Diseño e implementación de **APIs REST**
-- Arquitecturas basadas en **Spring Boot**
-- Sistemas distribuidos y **microservicios**
-- Persistencia y diseño de **bases de datos relacionales**
-- Contenerización y automatización de despliegues
+I have worked with **relational databases**, primarily **PostgreSQL** and **MySQL**, which has allowed me to build solid skills in **data modeling**, **persistence**, and **query optimization**.
 
 ---
 
-## 🔧 Tecnologías y herramientas
+## 🧠 Technical Focus
 
-### Lenguajes de programación
+- Backend development with **Java**
+- Design and implementation of **REST APIs**
+- Architectures based on **Spring Boot**
+- Distributed systems and **microservices**
+- Persistence and design of **relational databases**
+- Containerization and deployment automation
+
+---
+
+## 🔧 Technologies & Tools
+
+### Programming Languages
 - Java  
 - PHP  
 - JavaScript  
@@ -33,13 +33,13 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
 - Spring Cloud (Eureka, API Gateway, Circuit Breaker)  
 - ASP.NET Core
 
-### Arquitectura
-- Microservicios  
-- Arquitectura limpia (Clean Architecture)  
-- Separación de responsabilidades  
-- Principios SOLID
+### Architecture
+- Microservices  
+- Clean Architecture  
+- Separation of Concerns  
+- SOLID Principles
 
-### Bases de datos
+### Databases
 - PostgreSQL  
 - MySQL  
 - Oracle
@@ -48,57 +48,57 @@ He trabajado con **bases de datos relacionales**, principalmente **PostgreSQL** 
 - Docker  
 - Jenkins (CI/CD)  
 - Microsoft Azure  
-- Kubernetes (nivel básico)
+- Kubernetes (basic level)
 
-### Frontend (conocimientos complementarios)
+### Frontend (complementary knowledge)
 - HTML, CSS  
 - JavaScript, TypeScript  
 - React  
 - Angular  
 - Tailwind CSS  
 
-### Herramientas y control de versiones
+### Tools & Version Control
 - Git  
 - GitHub  
 - GitLab  
 
-### Sistemas operativos
+### Operating Systems
 - Linux  
 - Windows  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-- **Sistema de gestión hospitalaria**  
-  Sistema distribuido basado en microservicios con Spring Cloud, Docker y despliegue en Azure.
+- **Hospital Management System**  
+  A distributed system based on microservices using Spring Cloud, Docker, and deployed on Azure.
 
-- **Sistema de gestión y moderación de publicaciones**  
-  Backend con Spring Boot, APIs REST y pipelines CI/CD implementados con Jenkins.
+- **Post Moderation & Management System**  
+  Backend built with Spring Boot, REST APIs, and CI/CD pipelines implemented using Jenkins.
 
-- **Otros proyectos académicos y experimentales**  
-  Enfocados en arquitectura, seguridad (RBAC), bases de datos y prácticas de ingeniería de software.
+- **Other Academic and Experimental Projects**  
+  Focused on architecture, security (RBAC), databases, and software engineering practices.
 
-📁 Ver todos los proyectos aquí:  
-🔗 [https://portfolio-eta-umber-66.vercel.app/projects](https://portfolio-eta-umber-66.vercel.app/projects)
+📁 View all projects here:  
+🔗 https://portfolio-eta-umber-66.vercel.app/projects
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 [https://portfolio-eta-umber-66.vercel.app/](https://portfolio-eta-umber-66.vercel.app/)
+🔗 https://portfolio-eta-umber-66.vercel.app/
 
 ---
 
-## 🎓 Educación
+## 🎓 Education
 
-**Ingeniería de Software**  
+**Software Engineering**  
 Universidad Técnica de Ambato – Ecuador  
-*Actualmente cursando*
+*Currently studying*
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 📧 Email: josuegarcab2@hotmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/](https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/)
+- 💼 LinkedIn: https://www.linkedin.com/in/josué-joel-garcía-abata-07ab94297/
