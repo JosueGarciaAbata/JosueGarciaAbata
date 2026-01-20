@@ -1,9 +1,9 @@
 # Josué García 👋  
-### Backend Developer | Java & Spring Boot
+### Full Stack Developer | Java | Spring Boot | React | Angular
 
-I am a **Software Engineering** student with a strong focus on **backend development**, specialized in **Java and the Spring ecosystem**.
-
-I have worked with **relational databases**, primarily **PostgreSQL** and **MySQL**, which has allowed me to build solid skills in **data modeling**, **persistence**, and **query optimization**.
+Software Engineering student with strong backend focus.  
+Experience designing and implementing **RESTful APIs and microservices with Java and Spring Boot**, supported by **relational databases** such as **PostgreSQL and MySQL**.  
+Familiar with **Docker**, basic **CI/CD pipelines**, and frontend integration with **React and Angular**.
 
 ---
 
