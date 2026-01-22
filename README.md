@@ -1,7 +1,7 @@
 # 👋 Josué García
 ### Backend Developer | Java & Spring Boot | React | Angular
 
-Software Engineering student with a **Full Stack profile** and a **strong backend focus**. Experience building **RESTful APIs and microservices with Java and Spring Boot**, working with **relational databases** and delivering **end-to-end solutions** with **React and Angular**. Hands-on experience with **Docker**, basic **CI/CD pipelines**, and modern backend architectures.
+Software Engineering student and Backend Developer specialized in Java and Spring Boot, with experience designing REST APIs, microservices architectures, and scalable backend services. Strong knowledge of relational databases, backend persistence with JPA, and containerized deployments with Docker. Familiar with CI/CD pipelines and modern backend patterns. Complementary frontend experience using React and Angular for API consumption.
 
 ---
 ## 🛠️ Tech Stack
@@ -12,7 +12,6 @@ Software Engineering student with a **Full Stack profile** and a **strong backen
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square)
 
