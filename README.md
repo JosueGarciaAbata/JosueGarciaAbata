@@ -1,5 +1,5 @@
 # 👋 Josué García
-### Full Stack Developer | Java & Spring Boot | React | Angular
+### Backend Developer | Java & Spring Boot | React | Angular
 
 Software Engineering student with a **Full Stack profile** and a **strong backend focus**. Experience building **RESTful APIs and microservices with Java and Spring Boot**, working with **relational databases** and delivering **end-to-end solutions** with **React and Angular**. Hands-on experience with **Docker**, basic **CI/CD pipelines**, and modern backend architectures.
 
