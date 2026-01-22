@@ -52,6 +52,8 @@ Software Engineering student and Backend Developer specialized in Java and Sprin
 
 ## 🧠 Technical Focus
 - Backend development with **Java & Spring Boot**
+- Authentication and authorization with Spring Security (OAuth 2.1)
+- Stateless security using JWT and custom security filters
 - **REST API** design and microservices architectures
 - Service discovery, API Gateway, Circuit Breaker
 - Relational database design and persistence (JPA)
