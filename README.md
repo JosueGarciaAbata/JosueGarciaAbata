@@ -31,7 +31,7 @@ Software Engineering student and Backend Developer specialized in Java and Sprin
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
