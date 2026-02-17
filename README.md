@@ -58,8 +58,8 @@ Software Engineering student and Backend & Cloud Developer with hands-on experie
 - Stateless security using JWT and custom security filters
 - REST API design and microservices architectures
 - Cloud architecture concepts (AWS, Azure), service discovery, API Gateway, Circuit Breaker
-- Relational database design and persistence (JPA)
-- Containerization and DevOps fundamentals (Docker, CI/CD)
+- Relational database design and persistence
+- Containerization and DevOps fundamentals
 - Frontend integration with React & Angular
 ---
 
