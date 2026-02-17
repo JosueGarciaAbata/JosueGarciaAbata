@@ -36,6 +36,22 @@ Software Engineering student and Backend & Cloud Developer with hands-on experie
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+## 📊 Observability
+
+![Spring Actuator](https://img.shields.io/badge/Spring_Actuator-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+## 🧪 Testing
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-7E57C2?style=flat-square)
+![Gatling](https://img.shields.io/badge/Gatling-FF6C37?style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat-square)
+![Integration Testing](https://img.shields.io/badge/Integration_Testing-555555?style=flat-square)
+![Performance Testing](https://img.shields.io/badge/Performance_Testing-000000?style=flat-square)
+![System Testing](https://img.shields.io/badge/System_Testing-2C3E50?style=flat-square)
+
 ### Architecture & Design
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-34495E?style=flat-square)
