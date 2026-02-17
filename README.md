@@ -1,7 +1,7 @@
 # 👋 Josué García
-### Backend Developer | Java & Spring Boot | React | Angular
+### Backend & Cloud Developer | Java, Spring Boot, AWS, Azure
 
-Software Engineering student and Backend Developer specialized in Java and Spring Boot, with experience designing REST APIs, microservices architectures, and scalable backend services. Strong knowledge of relational databases, backend persistence with JPA, and containerized deployments with Docker. Familiar with CI/CD pipelines and modern backend patterns. Complementary frontend experience using React and Angular for API consumption.
+Software Engineering student and Backend & Cloud Developer with hands-on experience in designing REST APIs, microservices architectures, and scalable backend services deployed on cloud environments. Skilled in Java, Spring Boot, containerization (Docker), integration and deployment workflows, and familiar with AWS and Azure cloud platforms. Actively building expertise in cloud engineering best practices and infrastructure automation.
 
 ---
 ## 🛠️ Tech Stack
@@ -53,16 +53,20 @@ Software Engineering student and Backend Developer specialized in Java and Sprin
 ---
 
 ## 🧠 Technical Focus
-- Backend development with **Java & Spring Boot**
-- Authentication and authorization with Spring Security (OAuth 2.1)
+- Backend development with Java & Spring Boot
+- Authentication and authorization with Spring Security
 - Stateless security using JWT and custom security filters
-- **REST API** design and microservices architectures
-- Service discovery, API Gateway, Circuit Breaker
+- REST API design and microservices architectures
+- Cloud architecture concepts (AWS, Azure), service discovery, API Gateway, Circuit Breaker
 - Relational database design and persistence (JPA)
-- Containerization and basic CI/CD pipelines
-- Frontend integration with **React & Angular**
-
+- Containerization and DevOps fundamentals (Docker, CI/CD)
+- Frontend integration with React & Angular
 ---
+
+## ☁️ Cloud Engineering Experience
+- Deployed microservices to Azure (App Services / Containers)
+- Basic infrastructure setup (networking, storage, deployment pipelines)
+- Familiar with AWS core services (EC2, S3, Lambda, RDS)
 
 ## 🚀 Featured Projects
 
