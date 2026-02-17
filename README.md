@@ -95,7 +95,7 @@ Software Engineering student and Backend & Cloud Developer with hands-on experie
 ---
 
 ## 🌐 Portfolio
-🔗 [https://portfolio-eta-umber-66.vercel.app/](https://josuegarcab.vercel.app/)
+🔗 https://josuegarcab.vercel.app/
 
 ---
 
