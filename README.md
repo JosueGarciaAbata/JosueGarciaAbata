@@ -95,7 +95,7 @@ Software Engineering student and Backend & Cloud Developer with hands-on experie
 ---
 
 ## 🌐 Portfolio
-🔗 https://josuegarcab.vercel.app/
+🔗[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://josuegarcab.vercel.app/)
 
 ---
 
