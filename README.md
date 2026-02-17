@@ -74,7 +74,7 @@ Software Engineering student and Backend & Cloud Developer with hands-on experie
   Distributed microservices system using **Spring Cloud**, **Docker**, and deployed on **Azure**.
 
 - **Post Moderation & Management System**  
-  Backend system built with **Spring Boot**, **REST APIs**, and **integration and deployment workflow** using Jenkins.
+  Backend system built with Spring Boot and REST APIs, with integration and deployment workflows using Jenkins.
 
 🔗 **More projects:**  
 https://portfolio-eta-umber-66.vercel.app/projects
