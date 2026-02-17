@@ -92,13 +92,10 @@ Software Engineering student and Backend & Cloud Developer with hands-on experie
 - **Post Moderation & Management System**  
   Backend system built with Spring Boot and REST APIs, with integration and deployment workflows using Jenkins.
 
-🔗 **More projects:**  
-https://portfolio-eta-umber-66.vercel.app/projects
-
 ---
 
 ## 🌐 Portfolio
-🔗 https://portfolio-eta-umber-66.vercel.app/
+🔗 [https://portfolio-eta-umber-66.vercel.app/](https://josuegarcab.vercel.app/)
 
 ---
 
