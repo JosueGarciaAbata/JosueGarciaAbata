@@ -66,7 +66,7 @@ Desarrollador Full Stack con experiencia práctica en la construcción de aplica
 
 ---
 
-## 🧠 Technical Focus
+## 🧠 Enfoque tecnico
 - Desarrollo backend con Java y Spring Boot
 - Autenticación y autorización con Spring Security
 - Seguridad stateless con JWT y filtros personalizados
@@ -77,7 +77,7 @@ Desarrollador Full Stack con experiencia práctica en la construcción de aplica
 - Integración frontend con React y Angular
 ---
 
-## ☁️ Cloud Engineering Experience
+## ☁️ Experiencia en Ingeniería Cloud
 - Despliegue de microservicios en Azure (App Services / Containers)
 - Configuración básica de infraestructura (redes, almacenamiento, pipelines de despliegue)
 - Conocimiento de servicios principales de AWS (EC2, S3, Lambda, RDS)
