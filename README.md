@@ -1,7 +1,7 @@
 # 👋 Josué García
-### Backend & Cloud Developer | Java, Spring Boot, AWS, Azure
+### Full Stack Developer | Java, Spring Boot, AWS, Azure
 
-Software Engineering student and Backend & Cloud Developer with hands-on experience in designing REST APIs, microservices architectures, and scalable backend services deployed on cloud environments. Skilled in Java, Spring Boot, containerization (Docker), integration and deployment workflows, and familiar with AWS and Azure cloud platforms. Actively building expertise in cloud engineering best practices and infrastructure automation.
+Full Stack Developer with hands-on experience building complete web applications, from frontend interfaces to backend services, and deploying them on cloud platforms. Proficient in Java and Spring Boot for backend development, familiar with frontend integration, containerization, and continuous integration practices to maintain code quality. Strong interest in cloud computing and scalable solutions using AWS and Azure, with a commitment to continuous learning and building effective end-to-end software systems.
 
 ---
 ## 🛠️ Tech Stack
