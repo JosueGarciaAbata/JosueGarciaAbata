@@ -46,15 +46,14 @@ Desarrollador Full Stack con experiencia práctica en la construcción de aplica
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-7E57C2?style=flat-square)
 ![Gatling](https://img.shields.io/badge/Gatling-FF6C37?style=flat-square)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-25A162?style=flat-square)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-555555?style=flat-square)
-![Performance Testing](https://img.shields.io/badge/Performance_Testing-000000?style=flat-square)
-![System Testing](https://img.shields.io/badge/System_Testing-2C3E50?style=flat-square)
+![Pruebas unitarias](https://img.shields.io/badge/Unit_Testing-25A162?style=flat-square)
+![Pruebas de integracion](https://img.shields.io/badge/Integration_Testing-555555?style=flat-square)
+![Pruebas de rendimiento](https://img.shields.io/badge/Performance_Testing-000000?style=flat-square)
+![Pruebas de sistema](https://img.shields.io/badge/System_Testing-2C3E50?style=flat-square)
 
 ### Arquitectura & Diseño
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
+![Arquitectura limpia](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-34495E?style=flat-square)
-![Separation of Concerns](https://img.shields.io/badge/Separation_of_Concerns-555555?style=flat-square)
 
 ### Sistemas Operativos
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
