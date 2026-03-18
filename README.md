@@ -1,82 +1,82 @@
-# 👋 Josué García
-### Desarrollador Full Stack | PHP, Laravel, Java, JavaScript
+# 👋 Hola, soy Josué García
+### Full Stack Developer | Java, Spring Boot, React, Node.js
 
-Desarrollador Full Stack con más de 2 años desarrollando aplicaciones web y APIs backend. Experiencia práctica con PHP y Laravel en arquitectura MVC, así como con Node.js/NestJS y Java/Spring Boot en servicios backend y sistemas distribuidos. Manejo MySQL, PostgreSQL y Redis, además de Linux y Docker para entornos de desarrollo y despliegue consistentes.
+Me gusta construir aplicaciones web, APIs y sistemas backend bien estructurados. Trabajo principalmente con **Java + Spring Boot**, pero también he desarrollado con **Node.js/NestJS**, **React** y **Angular**
+
+Disfruto bastante el backend, la integración entre servicios, la persistencia de datos y el rendimiento. También me interesa mucho **cloud**, especialmente todo lo relacionado con despliegue, arquitectura y operación de servicios en **AWS** y **Azure**.
 
 ---
 
 ## 🛠️ Tecnologías
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square)
 
-### Frontend
-![Blade](https://img.shields.io/badge/Blade-F55247?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Bases de datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Data & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-
-### Herramientas y entorno
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Testing
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-7E57C2?style=flat-square)
+![Gatling](https://img.shields.io/badge/Gatling-FF6C37?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ---
 
-## 🧠 Enfoque técnico
-- Desarrollo de aplicaciones web con PHP y Laravel bajo arquitectura MVC
-- Construcción de APIs backend y servicios distribuidos con Node.js/NestJS y Java/Spring Boot
-- Modelado y persistencia de datos con MySQL, PostgreSQL y Redis
-- Integración frontend-backend con Blade, JavaScript, React y Angular
-- Contenedorización y entornos consistentes con Docker y Linux
-- Integración continua y automatización básica con Jenkins y GitHub Actions
+## ☁️ Cloud
+Me interesa bastante todo lo relacionado con **cloud computing**, sobre todo despliegue de servicios, arquitectura distribuida y operación de aplicaciones en entornos como **AWS** y **Azure**. He trabajado con despliegues de microservicios, contenedores y configuraciones base para mover aplicaciones desde desarrollo hasta entornos más cercanos a producción.
 
 ---
 
-## 🚀 Proyectos destacados
-
-### Sistema de votaciones universitarias
-Plataforma web desarrollada con PHP 8.2 y Laravel 11 para gestión electoral universitaria, registro de votantes y publicación de contenido informativo. Implementada con arquitectura MVC, Blade, Eloquent ORM, formularios validados y visualización de estadísticas.
-
-### Sistema de gestión de combustible
-Plataforma backend basada en 11 microservicios con NestJS, TypeScript, gRPC y Eureka. Incluye comunicación distribuida tipada con archivos Proto, dominios como usuarios, conductores, vehículos y rutas, y reportería con KPIs operativos.
+## 🚀 Algunos proyectos
 
 ### Sistema de gestión hospitalaria
-Sistema distribuido con 6 microservicios desarrollado con Java, Spring Boot y Spring Cloud para autenticación, administración médica, pacientes, consultas y reportería. Incluye API Gateway, Eureka, JWT, Docker, Azure y frontend en React.
+Plataforma web orientada a centralizar autenticación, gestión de pacientes, consultas y reportería, con enfoque en integración entre servicios y operación administrativa.
 
-### Sistema de moderación de publicaciones
-Aplicación full stack con backend en Java y Spring Boot para incidencias, revisión de publicaciones y apelaciones, con integración continua en Jenkins, Docker y módulos frontend en React.
-
----
-
-## 🎓 Educación
-**Ingeniería en Software**  
-Universidad Técnica de Ambato – Ecuador
+### Sistema de gestión de combustible
+Sistema backend enfocado en la gestión operativa de flotas, rutas y consumo de combustible, incorporando reportería y métricas para seguimiento de eficiencia.
 
 ---
 
-## 🌐 Portafolio
-🔗 <https://josuegarcab.vercel.app/>
+## 🎯 En lo que más me enfoco
+- Backend con Java / Spring Boot y Node.js / NestJS
+- APIs REST, microservicios y comunicación entre servicios
+- Bases de datos relacionales y no relacionales
+- Docker, CI/CD y despliegue en cloud
+- Integración frontend-backend para aplicaciones completas
 
-## 📫 Contacto
-- 📧 Email: josuegarcab2@hotmail.com
-- 💼 LinkedIn: <https://www.linkedin.com/in/josue-joel-garcia-abata-07ab94297/>
+---
+
+## 🌐 Links
+- Portfolio: <https://josuegarcab.vercel.app/>
+- LinkedIn: <https://www.linkedin.com/in/josue-joel-garcia-abata-07ab94297/>
+- Email: **josuegarcab2@hotmail.com**
