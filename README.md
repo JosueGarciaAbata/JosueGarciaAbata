@@ -1,18 +1,18 @@
-# Hola, soy Josué García
+# Hi, I'm Josué García
 
-### Ingeniero de Software · Java · Spring Boot · Angular · React · PostgreSQL
+### Software Engineer · Java · Spring Boot · Angular · React · PostgreSQL
 
-Ingeniero de Software que construye sistemas completos de principio a fin: APIs,
-dashboards y arquitecturas basadas en microservicios. Mi base es Java + Spring Boot en el backend,
-Angular y React en el frontend, y PostgreSQL para los datos.
+Software Engineer who builds complete systems end to end: APIs, dashboards and microservice-based
+architectures. My core stack is Java + Spring Boot on the backend, Angular and React on the frontend,
+and PostgreSQL for data.
 
-Lo que más me mueve es lo que sostiene un sistema por debajo: bases de datos, integración entre
-servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia el cloud engineering
-(AWS y Azure).
+What drives me most is what holds a system together underneath: databases, service-to-service
+integration, deployment and infrastructure. That's what increasingly pulls me toward cloud engineering
+(AWS and Azure).
 
 ---
 
-## Tecnologías
+## Technologies
 
 **Backend**
 
@@ -25,7 +25,7 @@ servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia 
 ![gRPC](https://img.shields.io/badge/gRPC-244B5A?style=flat-square&logo=grpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservicios-000000?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square)
 
 **Frontend**
 
@@ -37,7 +37,7 @@ servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -55,14 +55,14 @@ servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Testing & Calidad**
+**Testing & Quality**
 
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-7E57C2?style=flat-square)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-**IA & Visión computacional**
+**AI & Computer Vision**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -72,36 +72,36 @@ servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia 
 
 ---
 
-## Proyectos destacados
+## Featured projects
 
-- **Clinic — Gestión de citas médicas** — sistema multiplataforma (Spring Boot + React + React
-  Native) con arquitectura hexagonal, flujo completo de citas y cancelaciones, historiales médicos
-  y notificaciones push hacia la app móvil.
-- **PetSafe — Gestión de clínica veterinaria** — plataforma full-stack (NestJS + Angular) con
-  arquitectura hexagonal, cola en tiempo real, historia clínica, vacunas y adopciones.
-- **Monitoreo vehicular con reconocimiento de placas** — visión computacional de extremo a extremo
-  (detección, segmentación y OCR) con apoyo a la decisión mediante lógica difusa.
-- **Sistema hospitalario** — plataforma de microservicios con API Gateway, descubrimiento de
-  servicios y base de datos distribuida.
-- **Personalización de ERP (Odoo)** — adaptación modular de un ERP para gestionar procesos de
-  negocio reales: tienda, suscripciones, inventario y facturación.
+- **Clinic — Medical Appointment Management** — a multi-platform system (Spring Boot + React + React
+  Native) with a hexagonal architecture, a full appointment and cancellation workflow, medical records
+  and push notifications to the mobile app.
+- **PetSafe — Veterinary Clinic Management** — a full-stack platform (NestJS + Angular) with a hexagonal
+  architecture, real-time queue, clinical records, vaccinations and adoptions.
+- **Vehicle Monitoring with Plate Recognition** — an end-to-end computer vision pipeline (detection,
+  segmentation and OCR) with decision support powered by fuzzy logic.
+- **Hospital System** — a microservices platform with an API Gateway, service discovery and a distributed
+  database.
+- **ERP Customization (Odoo)** — modular customization of an ERP to manage real business processes: store,
+  subscriptions, inventory and invoicing.
 
-Más proyectos en el [portafolio](https://josuegarcab.vercel.app/).
+More projects in my [portfolio](https://josuegarcab.vercel.app/).
 
 ---
 
-## En lo que me enfoco
+## What I focus on
 
-- Backend con Java / Spring Boot y Node.js / NestJS
-- APIs REST, microservicios y comunicación entre servicios (gRPC, mensajería)
-- Bases de datos relacionales y no relacionales
-- Docker, CI/CD y despliegue en cloud (AWS / Azure)
-- Integración frontend-backend para aplicaciones completas
+- Backend with Java / Spring Boot and Node.js / NestJS
+- REST APIs, microservices and service-to-service communication (gRPC, messaging)
+- Relational and non-relational databases
+- Docker, CI/CD and cloud deployment (AWS / Azure)
+- Frontend-backend integration for complete applications
 
 ---
 
 ## Links
 
-- Portafolio: <https://josuegarcab.vercel.app/>
+- Portfolio: <https://josuegarcab.vercel.app/>
 - LinkedIn: <https://www.linkedin.com/in/josue-joel-garcia-abata-07ab94297/>
 - Email: josuegarcab2@hotmail.com
