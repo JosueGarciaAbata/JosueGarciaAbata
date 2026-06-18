@@ -1,8 +1,8 @@
 # Hola, soy Josué García
 
-### Full Stack Developer · Java · Spring Boot · Angular · React · PostgreSQL
+### Ingeniero de Software · Java · Spring Boot · Angular · React · PostgreSQL
 
-Estudiante de Ingeniería de Software que construye sistemas completos de principio a fin: APIs,
+Ingeniero de Software que construye sistemas completos de principio a fin: APIs,
 dashboards y arquitecturas basadas en microservicios. Mi base es Java + Spring Boot en el backend,
 Angular y React en el frontend, y PostgreSQL para los datos.
 
@@ -31,6 +31,7 @@ servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia 
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -73,6 +74,9 @@ servicios, despliegue e infraestructura. Por eso me oriento cada vez más hacia 
 
 ## Proyectos destacados
 
+- **Clinic — Gestión de citas médicas** — sistema multiplataforma (Spring Boot + React + React
+  Native) con arquitectura hexagonal, flujo completo de citas y cancelaciones, historiales médicos
+  y notificaciones push hacia la app móvil.
 - **PetSafe — Gestión de clínica veterinaria** — plataforma full-stack (NestJS + Angular) con
   arquitectura hexagonal, cola en tiempo real, historia clínica, vacunas y adopciones.
 - **Monitoreo vehicular con reconocimiento de placas** — visión computacional de extremo a extremo
