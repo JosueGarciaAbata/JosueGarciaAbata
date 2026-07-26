@@ -7,8 +7,7 @@ architectures. My core stack is Java + Spring Boot on the backend, Angular and R
 and PostgreSQL for data.
 
 What drives me most is what holds a system together underneath: databases, service-to-service
-integration, deployment and infrastructure. That's what increasingly pulls me toward cloud engineering
-(AWS and Azure).
+integration, deployment and infrastructure.
 
 ---
 
