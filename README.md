@@ -1,12 +1,8 @@
 # Hi, I'm Josué García
 
-### Software Engineer | Java, Spring Boot, Angular, React & PostgreSQL
+### Full Stack Software Engineer | Java, Spring Boot, Angular, React & PostgreSQL
 
-  Software Engineer who makes architectural decisions by weighing their advantages and trade-offs.
-  I build complete systems with Java and Spring Boot, Angular, React and PostgreSQL, and I deploy them on AWS.
-
-  Recently I designed an AI support platform with RAG and WhatsApp, and deployed a banking platform on AWS
-  with biometric identity verification.
+Full Stack Software Engineer who makes architectural decisions by weighing their advantages and trade-offs. I build complete systems with Java and Spring Boot, Angular, React and PostgreSQL, and I deploy them on AWS. Recently I designed an AI support platform with RAG and WhatsApp, and deployed a banking platform on AWS with biometric identity verification.
 
   ---
 
