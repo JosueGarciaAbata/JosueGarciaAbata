@@ -1,5 +1,6 @@
-<img align="top" src="https://capsule-render.vercel.app/api?type=waving&color=0:030620,50:0154cf,100:0161ef&height=130&section=footer&text=Josu%C3%A9%20Garc%C3%ADa&fontSize=38&fontColor=ffffff&fontAlignY=75" width="100%" alt="Josué
-  García"><img align="top" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&duration=2000&pause=600&color=FFFFFF&background=0154CF&center=true&vCenter=true&width=800&height=30&lines=Full+Stack+Software+Engineer;Java+%26+Spring+Boot;Angular+%26+React;PostgreSQL+%26+Docker;AWS+%26+Terraform;AI+Agents+%26+RAG+Systems" width="100%" alt="Typing SVG">
+ <img align="top" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a4a,50:12338a,100:0a1a4a&height=130&section=footer&text=Josu%C3%A9%20Garc%C3%ADa&fontSize=38&fontColor=ffffff&fontAlignY=75" width="100%" alt="Josué
+  García"><img align="top" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&duration=2000&pause=600&color=FFFFFF&background=0F2A70&center=true&vCenter=true&width=800&height=30&lines=Full+Stack+Software+Engi
+  neer;Java+%26+Spring+Boot;Angular+%26+React;PostgreSQL+%26+Docker;AWS+%26+Terraform;AI+Agents+%26+RAG+Systems" width="100%" alt="Typing SVG">
 
   I make architectural decisions by weighing their advantages and trade-offs. I build complete systems with Java and Spring Boot, Angular, React and PostgreSQL, and I deploy them on AWS. Recently I designed an AI support platform with
   RAG and WhatsApp, and deployed a banking platform on AWS with biometric identity verification.
@@ -34,7 +35,7 @@
 
   More projects in my [portfolio](https://josuegarcab.vercel.app/).
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030620,50:0154cf,100:0161ef&height=4" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a4a,50:12338a,100:0a1a4a&height=4" width="100%" alt="">
 
   ## Technologies
 
@@ -98,7 +99,7 @@
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
   ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=flat-square)
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030620,50:0154cf,100:0161ef&height=4" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1a4a,50:12338a,100:0a1a4a&height=4" width="100%" alt="">
 
   ## Links
 
@@ -106,4 +107,4 @@
   - LinkedIn — <https://www.linkedin.com/in/josue-joel-garcia-abata-07ab94297/>
   - Email — josuegarcab2@gmail.com
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030620,50:0154cf,100:0161ef&height=100&section=footer" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a4a,50:12338a,100:0a1a4a&height=100&section=footer" width="100%" alt="">
