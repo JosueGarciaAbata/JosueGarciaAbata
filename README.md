@@ -1,6 +1,5 @@
- <img align="top" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a4a,50:12338a,100:0a1a4a&height=130&section=footer&text=Josu%C3%A9%20Garc%C3%ADa&fontSize=38&fontColor=ffffff&fontAlignY=75" width="100%" alt="Josué
-  García"><img align="top" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&duration=2000&pause=600&color=FFFFFF&background=0F2A70&center=true&vCenter=true&width=800&height=30&lines=Full+Stack+Software+Engi
-  neer;Java+%26+Spring+Boot;Angular+%26+React;PostgreSQL+%26+Docker;AWS+%26+Terraform;AI+Agents+%26+RAG+Systems" width="100%" alt="Typing SVG">
+<img align="top" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a4a,50:12338a,100:0a1a4a&height=130&section=footer&text=Josu%C3%A9%20Garc%C3%ADa&fontSize=38&fontColor=ffffff&fontAlignY=75" width="100%" alt="Josué
+  García"><img align="top" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&duration=2000&pause=600&color=FFFFFF&background=0F2A70&center=true&vCenter=true&width=800&height=30&lines=Full+Stack+Software+Engineer;Java+%26+Spring+Boot;Angular+%26+React;PostgreSQL+%26+Docker;AWS+%26+Terraform;AI+Agents+%26+RAG+Systems" width="100%" alt="Typing SVG">
 
   I make architectural decisions by weighing their advantages and trade-offs. I build complete systems with Java and Spring Boot, Angular, React and PostgreSQL, and I deploy them on AWS. Recently I designed an AI support platform with
   RAG and WhatsApp, and deployed a banking platform on AWS with biometric identity verification.
@@ -11,7 +10,7 @@
     <tr>
       <td width="50%" valign="top">
         <a href="https://josuegarcab.vercel.app/projects/kronhos-ai-assistant">
-          <img src="https://josuegarcab.vercel.app/images/projects/kronhos/assistant.png" alt="Kronhos AI Assistant" width="100%">
+          <img src="https://wsrv.nl/?url=josuegarcab.vercel.app/images/projects/kronhos/assistant.png&w=800&h=450&fit=cover&a=top" alt="Kronhos AI Assistant" width="100%">
         </a>
         <br>
         <b>Kronhos AI Assistant</b><br>
@@ -19,7 +18,7 @@
       </td>
       <td width="50%" valign="top">
         <a href="https://josuegarcab.vercel.app/">
-          <img src="https://josuegarcab.vercel.app/images/projects/petsafe/login.png" alt="PetSafe" width="100%">
+          <img src="https://wsrv.nl/?url=josuegarcab.vercel.app/images/projects/petsafe/login.png&w=800&h=450&fit=cover&a=top" alt="PetSafe" width="100%">
         </a>
         <br>
         <b>PetSafe (Freelance)</b><br>
