@@ -1,10 +1,40 @@
-# Hi, I'm Josué García
+<img align="top" src="https://capsule-render.vercel.app/api?type=waving&color=0:030620,50:0154cf,100:0161ef&height=130&section=footer&text=Josu%C3%A9%20Garc%C3%ADa&fontSize=38&fontColor=ffffff&fontAlignY=75" width="100%" alt="Josué
+  García"><img align="top" src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&duration=2000&pause=600&color=FFFFFF&background=0154CF&center=true&vCenter=true&width=800&height=30&lines=Full+Stack+Software+Engineer;Java+%26+Spring+Boot;Angular+%26+React;PostgreSQL+%26+Docker;AWS+%26+Terraform;AI+Agents+%26+RAG+Systems" width="100%" alt="Typing SVG">
 
-### Full Stack Software Engineer | Java, Spring Boot, Angular, React & PostgreSQL
+  I make architectural decisions by weighing their advantages and trade-offs. I build complete systems with Java and Spring Boot, Angular, React and PostgreSQL, and I deploy them on AWS. Recently I designed an AI support platform with
+  RAG and WhatsApp, and deployed a banking platform on AWS with biometric identity verification.
 
-Full Stack Software Engineer who makes architectural decisions by weighing their advantages and trade-offs. I build complete systems with Java and Spring Boot, Angular, React and PostgreSQL, and I deploy them on AWS. Recently I designed an AI support platform with RAG and WhatsApp, and deployed a banking platform on AWS with biometric identity verification.
+  ## Featured projects
 
-  ---
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://josuegarcab.vercel.app/projects/kronhos-ai-assistant">
+          <img src="https://josuegarcab.vercel.app/images/projects/kronhos/assistant.png" alt="Kronhos AI Assistant" width="100%">
+        </a>
+        <br>
+        <b>Kronhos AI Assistant</b><br>
+        I designed a multi-tenant AI support platform with RAG on pgvector, a custom agent orchestrator and WhatsApp. <a href="https://josuegarcab.vercel.app/projects/kronhos-ai-assistant">Read more</a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://josuegarcab.vercel.app/">
+          <img src="https://josuegarcab.vercel.app/images/projects/petsafe/login.png" alt="PetSafe" width="100%">
+        </a>
+        <br>
+        <b>PetSafe (Freelance)</b><br>
+        Built end to end a veterinary clinic platform with Angular, NestJS, PostgreSQL and Docker: WebSockets, JWT, Playwright tests, and CI/CD on a VPS with Nginx, SSL and Cloudflare. <a href="https://josuegarcab.vercel.app/">Read
+  more</a>
+      </td>
+    </tr>
+  </table>
+
+  - **Digital Bank** — online banking on AWS (ECS Fargate, RDS, CloudFront) with Terraform, biometric identity verification and k6 load tests.
+  - **Hospital System** — Spring Cloud microservices with an API Gateway and a distributed database.
+  - **Vehicle Monitoring with Plate Recognition** — YOLOv11 detection, OCR and fuzzy logic for decision support.
+
+  More projects in my [portfolio](https://josuegarcab.vercel.app/).
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030620,50:0154cf,100:0161ef&height=4" width="100%" alt="">
 
   ## Technologies
 
@@ -68,24 +98,12 @@ Full Stack Software Engineer who makes architectural decisions by weighing their
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
   ![Computer Vision](https://img.shields.io/badge/Computer_Vision-000000?style=flat-square)
 
-  ---
-
-  ## Featured projects
-
-  - **Digital Bank** — online banking on AWS (ECS Fargate, RDS, CloudFront) with Terraform, biometric
-    identity verification and k6 load tests.
-  - **Kronhos AI Assistant** — multi-tenant AI platform with RAG on pgvector, a custom agent orchestrator
-    and WhatsApp. The code belongs to the company, so it is private.
-  - **PetSafe** — veterinary clinic platform with NestJS and Angular, with a real-time attention queue.
-  - **Hospital System** — Spring Cloud microservices with an API Gateway and a distributed database.
-  - **Vehicle Monitoring with Plate Recognition** — YOLOv11 detection, OCR and fuzzy logic for decision support.
-
-  More projects in my [portfolio](https://josuegarcab.vercel.app/).
-
-  ---
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030620,50:0154cf,100:0161ef&height=4" width="100%" alt="">
 
   ## Links
 
   - Portfolio — <https://josuegarcab.vercel.app/>
   - LinkedIn — <https://www.linkedin.com/in/josue-joel-garcia-abata-07ab94297/>
   - Email — josuegarcab2@gmail.com
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030620,50:0154cf,100:0161ef&height=100&section=footer" width="100%" alt="">
