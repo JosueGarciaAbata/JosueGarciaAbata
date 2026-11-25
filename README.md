@@ -8,7 +8,7 @@
   <a href="mailto:josuegarcab2@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center"><b>Full Stack Developer</b> | Software Engineering | Ambato, Ecuador</p>
+<p align="center">Full Stack Developer | Software Engineering | Ambato, Ecuador</p>
 
 ---
 
@@ -103,13 +103,19 @@ I make architectural decisions by weighing their advantages and trade-offs. I bu
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/b26793be263f41e6af0029d01bac517e"><img src="https://josuegarcab.vercel.app/images/certifications/aws-cloud-practitioner.png" height="130" alt="AWS Certified Cloud Practitioner"></a>
+      <br><br>
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/b26793be263f41e6af0029d01bac517e"><b>AWS Certified Cloud Practitioner</b></a><br>
+      <sub>Nov 2026 – Nov 2029</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/D8A08634715D4AAC8046DC7B2128784B"><img src="https://josuegarcab.vercel.app/images/certifications/aws-ai-practitioner.png" height="130" alt="AWS Certified AI Practitioner"></a>
       <br><br>
       <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/D8A08634715D4AAC8046DC7B2128784B"><b>AWS Certified AI Practitioner</b></a><br>
       <sub>Sep 2026 – Sep 2029</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://cert.efset.org/es/SXoScf"><img src="https://josuegarcab.vercel.app/images/certifications/efset-b2.svg" height="130" alt="EF SET English B2"></a>
       <br><br>
       <a href="https://cert.efset.org/es/SXoScf"><b>EF SET English B2</b></a><br>
