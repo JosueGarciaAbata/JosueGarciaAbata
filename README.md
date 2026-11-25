@@ -114,9 +114,3 @@ I make architectural decisions by weighing their advantages and trade-offs. I bu
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <a href="https://josuegarcab.vercel.app/">josuegarcab.vercel.app</a> | <a href="mailto:josuegarcab2@gmail.com">josuegarcab2@gmail.com</a>
-</p>
