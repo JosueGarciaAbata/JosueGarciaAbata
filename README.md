@@ -74,6 +74,9 @@ I make architectural decisions by weighing their advantages and trade-offs. I bu
   </tr>
 </table>
 
+## Publications
+
+- [Vehicle monitoring system for cars using license plate character recognition and penalty assessment with Mamdani fuzzy logic](https://doi.org/10.63957/arksis.v1i2.0011) | ArksisJournal, 2026
 
 ## Tech stack
 
